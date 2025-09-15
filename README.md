@@ -17,11 +17,11 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind," /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,bootstrap,tailwind," /><br>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,golang" /><br>
   <!-- Database & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,pycharm,jupyter,chatgpt," />
 </p>
 
 ---
@@ -34,9 +34,6 @@
   </a>
   <a href="https://twitter.com/vijaay_mourya" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="vijaymourya6264@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
